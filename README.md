@@ -1,51 +1,33 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Revolução no Mundo dos Jogos: Novo Capacete VR 'NeuroLink' Promete Experiência Totalmente Imersiva
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto, idealizado por Gabriel, foi uma exploração criativa para testar como informações geradas por IA poderiam ser facilmente aceitas pelo público quando apresentadas em um contexto familiar, como notícias de videogames ou filmes. A postagem foi uma tentativa de observar as reações das pessoas ao depararem com conteúdo gerado por IA, projetado para parecer convincente e autêntico, como se fosse uma verdadeira novidade tecnológica.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+### ChatGPT 
+| Tecnologia   | Prompt utilizado                                                   |
+|--------------|--------------------------------------------------------------------|
+| ChatGPT      |   Cite tópicos para utilizarmos em assuntos recentes, podendo ser animes, filmes, jogos etc. para fazermos uma pegadinha utilizando inteligencia artificial generativa, a ideia do projeto é montar algo tão próximo da verdade para que faça as pessoas se duvidarem disto>>>Vamos então criar uma nova tecnologia relacionada ao VR, como um capacete do anime sword art online |
+
+
+
+
+### Leonardo AI
+| Tecnologia   | Prompt utilizado                                                   |
+|--------------|--------------------------------------------------------------------|
+| Leonardo AI  | A hyper-realistic image of a futuristic, long glass-like visor inspired by advanced technology. The visor features a sleek and minimalist design with smooth, glossy surfaces and a single-piece shell in dark tones. It integrates a subtle and advanced display element or minimalistic digital indicators visible through the dark glass, indicating futuristic functionality. Soft LED lights emit a subtle ambient glow, seamlessly integrated into the contours of the visor. The visor is placed on a sleek, modern table with a clean surface made of reflective metal or minimalist glass. The background is plain white or light gray, emphasizing the sleek and futuristic qualities of the visor. |
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para criar a pegadinha do NeuroLink, utilizei o ChatGPT para desenvolver uma narrativa detalhada sobre o dispositivo de realidade virtual. Inspirado por temas populares como Sword Art Online, misturei elementos ficcionais com características tecnológicas plausíveis.
+
+Utilizei o Leonardo AI para criar uma representação visual realista e natural do capacete NeuroLink, garantindo que a imagem correspondesse à narrativa gerada.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A postagem só será aceita amanhã 13/07/2024 as 7:00am mas irei garantir de voltar para compartilhar o link, estou curioso para saber como seria a reação das pessoas
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar conteúdo fictício com inteligência artificial desafia a linha entre realidade e ficção. É fascinante como podemos usar tecnologias emergentes para criar histórias que parecem genuínas, explorando o potencial impacto cultural e tecnológico dessas inovações. Contudo, é crucial considerar que, se utilizadas com más intenções, tais tecnologias podem ser prejudiciais, podendo ser usadas para manipular informações e prejudicar a imagem de pessoas ou instituições.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
