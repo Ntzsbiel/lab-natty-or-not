@@ -28,6 +28,6 @@ Utilizei o Leonardo AI para criar uma representação visual realista e natural 
 ## 🚀 Resultados
 A postagem só será aceita amanhã 13/07/2024 as 7:00am mas irei garantir de voltar para compartilhar o link, estou curioso para saber como seria a reação das pessoas
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar conteúdo fictício com inteligência artificial desafia a linha entre realidade e ficção. É fascinante como podemos usar tecnologias emergentes para criar histórias que parecem genuínas, explorando o potencial impacto cultural e tecnológico dessas inovações. Contudo, é crucial considerar que, se utilizadas com más intenções, tais tecnologias podem ser prejudiciais, podendo ser usadas para manipular informações e prejudicar a imagem de pessoas ou instituições.
 
